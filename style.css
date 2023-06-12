@@ -131,7 +131,7 @@ header ul li a:hover {
   }
 }
 .dark {
-  background: url("img/darkbg.jpg") #0d0d0e no-repeat;
+  background: url("darkbg.jpg") #0d0d0e no-repeat;
   background-size: contain;
   color: #fff;
   transition: 0.3s;
